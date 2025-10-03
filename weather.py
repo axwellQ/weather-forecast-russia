@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "add7c47f139d402e0d395d874149dfef"  # Твой ключ
+API_KEY = " Ваш API ключ"
 BASE_URL = "https://api.openweathermap.org/data/2.5/forecast"
 
 def get_forecast(city: str):
